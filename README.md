@@ -1,6 +1,4 @@
 # constellation-art-Ibrahim-faiyani
-# Constellation Art
-
 ## Description
 
 Ce projet a été réalisé en Python avec la bibliothèque Turtle dans le cadre de l'évaluation de programmation Python.
